@@ -3,4 +3,5 @@
 Kitty is a fast, feature-rich, GPU based terminal emulator
 
 ## Reference:
-https://sw.kovidgoyal.net/kitty/
+https://sw.kovidgoyal.net/kitty
+https://github.com/dexpota/kitty-themes
