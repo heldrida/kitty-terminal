@@ -6,9 +6,16 @@ Kitty is a fast, feature-rich, GPU based terminal emulator
 
 Find a suitable font at:
 
-https://www.nerdfonts.com/
-https://github.com/ryanoasis/nerd-fonts#option-3-install-script
-https://github.com/Homebrew/homebrew-cask-fonts/tree/master/Casks
+
+[Nerd fonts](https://www.nerdfonts.com/)
+
+[Nerd fonts repo](https://github.com/ryanoasis/nerd-fonts#option-3-install-script)
+
+[Homebrew cask fonts](https://github.com/Homebrew/homebrew-cask-fonts/tree/master/Casks)
+
+Find how they look like:
+
+https://www.programmingfonts.org/#firacode
 
 For example, installed via homebrew cask fonts:
 
