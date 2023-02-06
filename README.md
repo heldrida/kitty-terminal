@@ -27,6 +27,12 @@ brew tap homebrew/cask-fonts
 
 Install
 
+Kitty-themes submodule
+
+```sh
+git submodule update --init --recursive
+```
+
 ```sh
 brew install font-fira-code-nerd-font
 ```
@@ -35,6 +41,12 @@ Find the kitty compatible fonts by:
 
 ```sh
 kitty +list-fonts
+```
+
+# Themes
+
+```sh
+kitty +kitten themes
 ```
 
 ## Reference:
