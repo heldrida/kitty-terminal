@@ -49,6 +49,8 @@ kitty +list-fonts
 kitty +kitten themes
 ```
 
+[Preview themes](https://github.com/dexpota/kitty-themes)
+
 ## Reference:
 https://sw.kovidgoyal.net/kitty
 
